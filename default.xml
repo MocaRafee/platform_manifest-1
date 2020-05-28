@@ -32,11 +32,15 @@
 
   <remote  name="rr-t"
            fetch="https://github.com/BrianTestShit"
-           revision="ten" />
+           revision="Q-test" />
+
+  <remote  name="rr-t2"
+           fetch="https://github.com/BrianTestShit"
+           revision="Q_t" />
 
   <remote  name="rr-q"
            fetch="https://github.com/BrianTestShit"
-           revision="ten" />
+           revision="Q" />
 
   <!-- AOSP Projects -->
 
