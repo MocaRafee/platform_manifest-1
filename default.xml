@@ -30,6 +30,14 @@
            fetch="https://github.com/ResurrectionRemix-Devices"
            revision="ten" />
 
+  <remote  name="rr-t"
+           fetch="https://github.com/BrianTestShit"
+           revision="ten" />
+
+  <remote  name="rr-q"
+           fetch="https://github.com/BrianTestShit"
+           revision="ten" />
+
   <!-- AOSP Projects -->
 
   <project path="build/blueprint" name="LineageOS/android_build_blueprint" groups="pdk,tradefed" />
