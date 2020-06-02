@@ -23,7 +23,7 @@
 
 <!--Lineage-Sdk-->
 
-  <project path="lineage-sdk" name="android_lineage-sdk" remote="rr-q" />
+  <project path="lineage-sdk" name="lineage-sdk" remote="rr-q" />
 
 <!--Apps-->
 
